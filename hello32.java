@@ -1,4 +1,4 @@
-class Hello
+class hello32
 {
 	public static void main(String args[])
 	{
